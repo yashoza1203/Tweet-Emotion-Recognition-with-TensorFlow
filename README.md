@@ -9,7 +9,7 @@ Creating and Training Recurrent Neural Networks
 
 Using NLP and Deep Learning to perform Text Classification
 
-###Tasks
+### Tasks
 Task 1: Introduction
 
 Task 2: Setup and Imports
