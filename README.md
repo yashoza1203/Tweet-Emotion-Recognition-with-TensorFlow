@@ -28,4 +28,4 @@
 
 9. Evaluating the Model  
 
-Course Link- https://www.coursera.org/learn/tweet-emotion-tensorflow/supplement/uZC0I/project-based-course-overview
+Course Link- https://www.coursera.org/learn/tweet-emotion-tensorflow/home/welcome
