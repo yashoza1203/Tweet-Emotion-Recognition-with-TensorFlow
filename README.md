@@ -1,13 +1,15 @@
 # Tweet-Emotion-Recognition-with-TensorFlow
 
-### Objectives
+### Course Objectives
 1. Using a Tokenizer in TensorFlow
-2. Padding and Truncating Sequences
-3. Creating and Training Recurrent Neural Networks
+
+3. Padding and Truncating Sequences
+
+5. Creating and Training Recurrent Neural Networks
 
 Using NLP and Deep Learning to perform Text Classification
 
-### Tasks
+### Tasks in this Guided Project
 1. Introduction 
 2. Setup and Imports 
 3. Importing Data 
